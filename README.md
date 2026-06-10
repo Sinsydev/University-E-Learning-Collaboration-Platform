@@ -63,7 +63,9 @@ The complete implementation of this project is maintained in a private repositor
 This public repository is intended to document the platform's architecture, features, and engineering approach while providing a professional case study of the project.
 
 
+
 🏗 Architecture
+
 The platform follows a modular component-based architecture designed for scalability and maintainability.
 
 The frontend is built with reusable React components and centralized state management patterns, while Firebase services provide secure authentication and cloud-backed data synchronization.
@@ -72,6 +74,7 @@ The architecture prioritizes responsive rendering, simplified maintenance, and e
 
 
 📈 Project Impact
+
 • Supported digital learning activities for over 1,500 student users.
 
 • Improved accessibility to academic resources and course materials.
@@ -84,6 +87,7 @@ The architecture prioritizes responsive rendering, simplified maintenance, and e
 
 
 ⚡ Engineering Highlights
+
 • Modular React component architecture
 
 • Type-safe frontend development
@@ -100,6 +104,7 @@ The architecture prioritizes responsive rendering, simplified maintenance, and e
 
 
 📅 Roadmap
+
 □ AI Learning Assistant
 
 □ Live Classroom Sessions
