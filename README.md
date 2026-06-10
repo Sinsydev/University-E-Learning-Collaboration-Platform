@@ -56,7 +56,7 @@ Development Tools
 • Vite 
 
  🔒 Source Code Availability
- ## Source Code
+ 
 
 The complete implementation of this project is maintained in a private repository due to institutional ownership and deployment considerations.
 
