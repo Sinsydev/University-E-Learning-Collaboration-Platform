@@ -12,6 +12,7 @@ The project was developed as part of an institutional initiative to strengthen d
 
 
  ✨ Core Features
+
  ✓ Student Dashboard
 
 ✓ Course Management
@@ -34,7 +35,9 @@ The project was developed as part of an institutional initiative to strengthen d
 
 
 
+
 🛠 Technology Stack
+
 Frontend
 • React.js
 • TypeScript
