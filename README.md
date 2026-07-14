@@ -1,3 +1,9 @@
+ <p align="center">
+  <img src="src/assets/Banner.png" alt="E-Learning Banner" width="100%">
+</p>
+ 
+ 
+ 
  🚀 Overview
  
 The University E-Learning & Collaboration Platform is a modern web application designed to support digital education through centralized course delivery, collaborative learning, and real-time academic interactions.
