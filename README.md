@@ -23,6 +23,18 @@ A modern cloud-powered digital learning platform that enables course delivery, a
 
 </p>
 
+<p align="center">
+
+<img src="https://img.shields.io/github/stars/Sinsydev/KSITM-VLCP?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/forks/Sinsydev/KSITM-VLCP?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/issues/Sinsydev/KSITM-VLCP?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/last-commit/Sinsydev/KSITM-VLCP?style=for-the-badge"/>
+
+</p>
+
 ---
 
 ## 🌍 Live Demo
