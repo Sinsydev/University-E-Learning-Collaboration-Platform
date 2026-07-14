@@ -80,31 +80,19 @@ The project demonstrates how modern frontend engineering, cloud services, and co
 - Postman
 
  ---
-  Students / Lecturers
-
-        │
-
-        ▼
-
+ Students / Lecturers
+          │
+          ▼
 React + TypeScript
-
-        │
-
-Component Architecture
-
-        │
-
-Context API
-
-        │
-
+          │
+Reusable Components
+          │
+Application State
+          │
 Firebase Services
-
  ├── Authentication
-
  ├── Firestore
-
- └── Storage
+ └── Cloud Storage
 
 ---
 
