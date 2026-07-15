@@ -143,28 +143,35 @@ Several engineering challenges emerged throughout development:
 These challenges were addressed through modular architecture, reusable UI components, centralized state management, and iterative interface refinement.
 
 ---
-## ⚡ Performance Optimizations
+ # ⚡ Performance Optimizations
 
-- Optimized React rendering
-- Reusable component architecture
-- Lazy-loaded application routes
-- Structured Firebase queries
+Several optimization techniques were implemented to improve responsiveness and maintainability throughout the application.
+
+### Frontend Optimizations
+
+- Lazy-loaded application modules
+- Reusable React components
+- Type-safe development using TypeScript
+- Reduced unnecessary component re-rendering
+- Optimized Firebase queries
 - Mobile-first responsive layouts
-- Efficient state management
+
+### Code Quality
+
+- Clean project structure
+- Consistent component organization
+- Modular styling with Tailwind CSS
+- Maintainable folder hierarchy
+- Improved developer experience for future contributors
 
 ---
+ # 🎯 Project Impact
 
- ## 🎯 Project Impact
+The University E-Learning & Collaboration Platform demonstrates how modern web technologies can improve accessibility, collaboration, and academic engagement within higher education.
 
-The platform demonstrates how modern cloud technologies can improve educational delivery through centralized course management, digital collaboration, and secure learning experiences.
+The platform centralizes course delivery, digital resources, assessments, and collaborative learning into a unified experience, reducing administrative friction while improving access to educational content across desktop and mobile devices.
 
-The project strengthened my experience in:
-
-- Building scalable React applications
-- Managing cloud-based authentication
-- Designing responsive educational interfaces
-- Working with Firebase cloud services
-- Developing production-ready frontend architecture
+From an engineering perspective, the project strengthened my experience designing scalable React applications, building cloud-connected user interfaces, and creating responsive systems capable of supporting real-world educational workflows.
 
 ---
 
