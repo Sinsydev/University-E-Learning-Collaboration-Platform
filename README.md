@@ -128,17 +128,19 @@ This architecture emphasizes:
 - Maintainable code organization for future scalability
 ---
 
-## 🚧 Engineering Challenges
+ # 🚧 Engineering Challenges
 
-One of the primary challenges during development was creating a responsive learning experience capable of supporting multiple academic workflows while keeping the interface intuitive and maintainable.
+One of the most rewarding aspects of building this platform was designing an interface capable of supporting multiple academic workflows while maintaining a consistent and intuitive user experience.
 
-Key engineering decisions included:
+Several engineering challenges emerged throughout development:
 
-- Designing reusable UI components
-- Structuring scalable Firebase collections
-- Maintaining responsive layouts across devices
-- Managing authentication securely
-- Organizing modular application architecture
+- Organizing reusable components across multiple learning modules.
+- Maintaining responsive layouts for students, instructors, and administrators.
+- Synchronizing cloud-based academic data efficiently using Firebase.
+- Structuring scalable React components without introducing unnecessary complexity.
+- Designing interfaces capable of presenting large amounts of educational content without overwhelming users.
+
+These challenges were addressed through modular architecture, reusable UI components, centralized state management, and iterative interface refinement.
 
 ---
 ## ⚡ Performance Optimizations
