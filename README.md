@@ -349,4 +349,37 @@ https://github.com/Sinsydev
 ### 📧 Email
 
 ismailaminusaid1234@gmail.com
+
+---
+
+# 📄 License
+
+This project is available for educational, demonstration, and portfolio purposes.
+
+If you would like to discuss commercial usage or collaboration opportunities, feel free to get in touch.
+
+
+---
+
+# ⭐ Support
+
+If you found this project interesting or helpful:
+
+- ⭐ Star the repository
+- 🍴 Fork the project
+- 💡 Share your feedback
+- 🤝 Connect with me on LinkedIn
+
+Every contribution, suggestion, and connection is greatly appreciated.
+
+
+--- 
+
+<div align="center">
+
+### Building modern software that makes education more accessible, collaborative, and impactful.
+
+**Thank you for visiting this project! 🚀**
+
+</div>
  
